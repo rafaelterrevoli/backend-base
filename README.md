@@ -1,1 +1,1 @@
-Este proyecto usa estructura MVC
+Este proyecto
